@@ -2,7 +2,7 @@
 
 Library written in Go to allow controlling of the Pimoroni Blinkt on a Raspberry Pi.
 
-NOTE: this was merely updated from https://github.com/adrianh-za/go-blinkt-rpi to work with modern Go.  Tested with Go v1.23
+NOTE: This was merely updated from https://github.com/adrianh-za/go-blinkt-rpi to work with modern Go.  I also wanted to test GoLand from Jetbrains and develop remotely from my PC against the RPi.  Tested with Go v1.23
 
 ## Usage ##
 
